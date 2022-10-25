@@ -1,0 +1,3 @@
+Definición de Arrays:
+
+Significa matriz o arreglo suyo, varios elementos, ya sean números, strings, null, undefined, funciones.

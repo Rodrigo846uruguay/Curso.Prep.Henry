@@ -1,0 +1,19 @@
+Variables:
+ Podemos decir que una variable es un nombre que se le pone a un dato determinado, donde vamos a almacenar dichos datos para usarlos mas tarde.
+Existen tres tipos de variables: var, let y const.
+const es la única variable que no se podrá modificar más, una vez que la creada.
+
+Strings: 
+ Un string es simplemente cualquier tipo de texto que va entre comillas por ejemplo 'perro', puede ser tanto palabras, letras, números o símbolos.
+
+
+Funciones (argumentos, return):
+ Una función es la manera de realizar cálculos matemáticos con todas las variables mencionadas anteriormente.
+ Un argumento dentro de una función vendría a ser texto entre parentesis para nombrar algo, como por ejemplo un nombre: log.hola('Martin')
+ Un argumento return sería cuando un a función te devuelve algun valor, que puede ser cualquier valor, que debemos especificar nosotros. Por ejemplo una división entre a / b; donde queremos que nos devuelva el resultado del producto: return producto
+
+
+Declaraciones if:
+Las declaraciones if son condiciones, que pueden cumplirse o no, y van entre parentesis. Por ejemplo. if (45 > 67) {return true;} else {return false;}. Esto quiere decir que si el 45 es mayor 67 la consola devolverá verdadero, si no lo es devolverá false.
+ Valores booleanos (true, false): Los valores booleanos solo tienen dos tipos de resultados: true (verdadero) o false (falso). 
+

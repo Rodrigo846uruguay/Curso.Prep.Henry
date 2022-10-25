@@ -1,0 +1,11 @@
+for: for es un bucle, eso quiere decir, que lo utilizaremos sobre una variable y una palabra clave, donde for se ejecutará varias veces hasta que devuelva false.
+Un ejemplo de esto puede ser darle la orden de que imprima todos los números del 1 al 100.
+por ejemplo: for (var i = 1; i <= 100;) i++) console.log{i} De esta manera imprimirá los números del 1 al 100
+
+&&: (and) (Y) Utilizamos esta doble && para verificar si dos expresiones juntas dan verdadero o no. Al usar && se fijará en las 2 expresiones escritas, y si ambas devuelven true, devolvera true, si una de esas dos devuelve false, entonces && devolverá false.
+
+
+||: (or) (O) Utilizamos este operador para definir si una, o las dos expresiones son verdaderas, por lo que devolverá true si una o las dos son verdaderas. Sólo devolverá false si las dos expresiones son falsas.
+
+
+!: (not) (NO) Este símbolo significa "no es igual", quiere decir que añadiendo el símbolo antes que la condición querrá decir que preguntará lo opuesto. Por ejemplo: 7 > 2 //true ( 7 es mayor a 2, es verdadero), pero ahora: 7 ! > 2 // false (7 NO es mayor a 2, es falso.)
